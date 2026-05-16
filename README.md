@@ -1,3 +1,8 @@
+
+https://github.com/user-attachments/assets/3958ca73-8fae-4a19-a33f-4438a78b74d8
+
+
+
 # creditscoring
 Machine learning-based credit scoring models to predict the monthly default probability of credit card customers
 
