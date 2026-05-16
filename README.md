@@ -1,8 +1,4 @@
 
-https://github.com/user-attachments/assets/3958ca73-8fae-4a19-a33f-4438a78b74d8
-
-
-
 # creditscoring
 Machine learning-based credit scoring models to predict the monthly default probability of credit card customers
 
@@ -18,3 +14,5 @@ Using the default probabilities produced by the Neural Network, the project cons
 # UI Tool 
 The project is finalized as an interactive interface built with Streamlit, allowing non-technical users to query the default probability of individual customers within a few clicks. To launch the tool, run:
 streamlit run UI_Tool.py
+
+https://github.com/user-attachments/assets/3958ca73-8fae-4a19-a33f-4438a78b74d8
